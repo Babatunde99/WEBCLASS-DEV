@@ -317,6 +317,11 @@ body {
   color: #fff;
 }
 
+.bttn:hover {
+  background-color: #4da01e;
+  cursor: pointer;
+}
+
 .foot-div {
   display: flex;
   justify-content: space-around;
